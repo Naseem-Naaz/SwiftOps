@@ -1,0 +1,16 @@
+Customer_ID,Customer_Name,Industry,Customer_Type,Region,City,State,Credit_Terms,Priority_Level,Customer_Rating,Average_Monthly_Order_Value_INR,Customer_Since
+CUST001,Reliance Retail,Retail,Enterprise,West,Mumbai,Maharashtra,Net 45,Platinum,4.9,2500000,2018
+CUST002,DMart,Retail,Enterprise,West,Mumbai,Maharashtra,Net 30,Platinum,4.8,2100000,2019
+CUST003,Amazon India,E-Commerce,Enterprise,Pan India,Bengaluru,Karnataka,Net 30,Platinum,5.0,4200000,2017
+CUST004,Flipkart,E-Commerce,Enterprise,Pan India,Bengaluru,Karnataka,Net 30,Platinum,4.9,3900000,2017
+CUST005,BigBasket,E-Commerce,Enterprise,South,Bengaluru,Karnataka,Net 30,Gold,4.7,1600000,2020
+CUST006,Blinkit,Quick Commerce,Enterprise,North,Gurugram,Haryana,Net 15,Gold,4.6,1400000,2021
+CUST007,Zepto,Quick Commerce,Enterprise,West,Mumbai,Maharashtra,Net 15,Gold,4.5,1350000,2022
+CUST008,Apollo Pharmacy,Healthcare,Enterprise,South,Hyderabad,Telangana,Net 45,Gold,4.8,1800000,2019
+CUST009,Tata 1mg,Healthcare,Enterprise,North,Gurugram,Haryana,Net 30,Gold,4.7,1250000,2020
+CUST010,Croma,Electronics,Enterprise,West,Mumbai,Maharashtra,Net 45,Gold,4.8,1900000,2018
+CUST011,Vijay Sales,Electronics,Enterprise,West,Mumbai,Maharashtra,Net 45,Silver,4.5,980000,2019
+CUST012,Spencer's Retail,Retail,Enterprise,East,Kolkata,West Bengal,Net 45,Silver,4.4,820000,2020
+CUST013,More Retail,Retail,Enterprise,South,Bengaluru,Karnataka,Net 45,Silver,4.5,910000,2021
+CUST014,Metro Cash & Carry,Wholesale,Enterprise,South,Bengaluru,Karnataka,Net 60,Gold,4.7,1700000,2018
+CUST015,Star Bazaar,Retail,Enterprise,West,Mumbai,Maharashtra,Net 45,Silver,4.4,760000,2021

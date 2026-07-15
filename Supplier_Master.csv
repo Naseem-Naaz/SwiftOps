@@ -1,0 +1,16 @@
+Supplier_ID,Supplier_Name,Supplier_Category,City,State,Region,Lead_Time_Days,Supplier_Rating,Procurement_Cost_Index,Payment_Terms,GSTIN,Contact_Email,Contract_Start_Year,Status
+SUP001,Samsung India Electronics Pvt. Ltd.,Electronics,Noida,Uttar Pradesh,North,7,4.8,1.08,Net 30,09AABCS1001A1Z5,procurement@samsung.example,2018,Preferred
+SUP002,HP India Sales Pvt. Ltd.,Electronics,Bengaluru,Karnataka,South,10,4.7,1.05,Net 45,29AABCH1002B1Z8,supply@hp.example,2019,Active
+SUP003,Nestlé India Ltd.,Grocery,Gurugram,Haryana,North,5,4.9,0.98,Net 30,06AABCN1003C1Z1,orders@nestle.example,2017,Preferred
+SUP004,Hindustan Unilever Ltd.,Grocery,Mumbai,Maharashtra,West,6,4.8,1.0,Net 30,27AABCH1004D1Z4,b2b@hul.example,2016,Preferred
+SUP005,Cipla Ltd.,Healthcare,Mumbai,Maharashtra,West,4,4.9,1.02,Net 30,27AABCC1005E1Z7,supply@cipla.example,2018,Preferred
+SUP006,Sun Pharmaceutical Industries Ltd.,Healthcare,Vadodara,Gujarat,West,6,4.8,1.01,Net 45,24AABCS1006F1Z0,sales@sunpharma.example,2017,Active
+SUP007,Godrej Interio,Furniture,Mumbai,Maharashtra,West,12,4.6,1.04,Net 45,27AABCG1007G1Z3,orders@godrej.example,2019,Active
+SUP008,Nilkamal Ltd.,Furniture,Mumbai,Maharashtra,West,11,4.5,1.0,Net 45,27AABCN1008H1Z6,trade@nilkamal.example,2020,Active
+SUP009,Bosch India Ltd.,Automotive,Bengaluru,Karnataka,South,8,4.7,1.06,Net 30,29AABCB1009J1Z9,fleet@bosch.example,2018,Preferred
+SUP010,MRF Ltd.,Automotive,Chennai,Tamil Nadu,South,9,4.6,1.03,Net 45,33AABCM1010K1Z2,sales@mrf.example,2019,Active
+SUP011,Puma Sports India Pvt. Ltd.,Clothing,Bengaluru,Karnataka,South,7,4.5,1.02,Net 30,29AABCP1011L1Z5,b2b@puma.example,2021,Active
+SUP012,Aditya Birla Fashion & Retail Ltd.,Clothing,Mumbai,Maharashtra,West,8,4.8,1.01,Net 45,27AABCA1012M1Z8,trade@abfrl.example,2018,Preferred
+SUP013,LG Electronics India Pvt. Ltd.,Electronics,Noida,Uttar Pradesh,North,9,4.7,1.04,Net 30,09AABCL1013N1Z1,orders@lg.example,2019,Active
+SUP014,Whirlpool of India Ltd.,Electronics,Gurugram,Haryana,North,9,4.6,1.03,Net 45,06AABCW1014P1Z4,sales@whirlpool.example,2020,Active
+SUP015,Coca-Cola India Pvt. Ltd.,Grocery,Gurugram,Haryana,North,4,4.8,0.99,Net 30,06AABCC1015Q1Z7,orders@coke.example,2016,Preferred

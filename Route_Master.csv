@@ -1,0 +1,16 @@
+Route_ID,Source_Warehouse_ID,Destination_Warehouse_ID,Distance_KM,Estimated_Transit_Days,Preferred_Vehicle_Type,Road_Type,Traffic_Level,Route_Risk,Fuel_Cost_Index,Toll_Cost_INR,Operating_Cost_Index,Route_Status,Priority
+RT001,WH001,WH009,555,1,Truck 20FT,National Highway,Medium,Low,1.0,1800,1.0,Active,High
+RT002,WH001,WH007,950,2,Truck 32FT,Expressway,Medium,Low,1.02,4200,1.03,Active,High
+RT003,WH001,WH002,1415,3,Container Trailer,Expressway,High,Medium,1.05,8200,1.08,Active,High
+RT004,WH002,WH008,149,1,Mini Truck,Urban,High,Low,1.05,450,1.02,Active,High
+RT005,WH002,WH007,525,1,Truck 20FT,National Highway,Medium,Low,1.03,1600,1.01,Active,Medium
+RT006,WH003,WH005,347,1,Truck 20FT,National Highway,High,Low,1.08,1200,1.04,Active,High
+RT007,WH003,WH004,570,2,Truck 32FT,National Highway,High,Medium,1.07,2400,1.06,Active,High
+RT008,WH004,WH003,570,2,Truck 32FT,National Highway,High,Medium,1.07,2400,1.06,Active,High
+RT009,WH005,WH006,1670,4,Container Trailer,National Highway,Medium,Medium,1.1,9300,1.1,Active,Medium
+RT010,WH006,WH010,1035,3,Truck 32FT,National Highway,Low,High,1.12,5100,1.12,Active,High
+RT011,WH007,WH002,525,1,Truck 20FT,National Highway,Medium,Low,1.03,1600,1.01,Active,Medium
+RT012,WH008,WH004,560,2,Truck 20FT,Expressway,Medium,Low,1.04,2200,1.03,Active,Medium
+RT013,WH009,WH001,555,1,Truck 20FT,National Highway,Medium,Low,1.0,1800,1.0,Active,High
+RT014,WH010,WH006,1035,3,Truck 32FT,National Highway,Low,High,1.12,5100,1.12,Active,High
+RT015,WH005,WH001,2200,5,Container Trailer,National Highway,Medium,Medium,1.1,12000,1.14,Seasonal,Low

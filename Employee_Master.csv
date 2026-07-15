@@ -1,0 +1,81 @@
+Employee_ID,Employee_Name,Designation,Department,Warehouse_ID,Shift,Experience_Years,Monthly_Salary_INR,Performance_Rating,Employment_Status,Joining_Year,Official_Email
+EMP0001,Employee_1,Warehouse Manager,Operations,WH001,Morning,2,95000,3.8,Active,2020,emp1@swiftops.example
+EMP0002,Employee_2,Inventory Supervisor,Inventory,WH001,General,3,52000,3.9,Active,2021,emp2@swiftops.example
+EMP0003,Employee_3,Logistics Coordinator,Logistics,WH001,Evening,4,48000,4.0,Active,2022,emp3@swiftops.example
+EMP0004,Employee_4,Data Analyst,Analytics,WH001,General,5,70000,4.1,Active,2023,emp4@swiftops.example
+EMP0005,Employee_5,Driver,Transport,WH001,Morning,6,32000,4.2,Active,2024,emp5@swiftops.example
+EMP0006,Employee_6,Forklift Operator,Warehouse,WH001,Evening,7,28000,3.8,Active,2020,emp6@swiftops.example
+EMP0007,Employee_7,Quality Inspector,Quality,WH001,General,8,42000,3.9,Active,2021,emp7@swiftops.example
+EMP0008,Employee_8,Supply Chain Executive,Supply Chain,WH001,Morning,9,60000,4.0,Active,2022,emp8@swiftops.example
+EMP0009,Employee_9,Warehouse Manager,Operations,WH002,Morning,2,95500,3.8,Active,2020,emp9@swiftops.example
+EMP0010,Employee_10,Inventory Supervisor,Inventory,WH002,General,3,52500,3.9,Active,2021,emp10@swiftops.example
+EMP0011,Employee_11,Logistics Coordinator,Logistics,WH002,Evening,4,48500,4.0,Active,2022,emp11@swiftops.example
+EMP0012,Employee_12,Data Analyst,Analytics,WH002,General,5,70500,4.1,Active,2023,emp12@swiftops.example
+EMP0013,Employee_13,Driver,Transport,WH002,Morning,6,32500,4.2,Active,2024,emp13@swiftops.example
+EMP0014,Employee_14,Forklift Operator,Warehouse,WH002,Evening,7,28500,3.8,Active,2020,emp14@swiftops.example
+EMP0015,Employee_15,Quality Inspector,Quality,WH002,General,8,42500,3.9,Active,2021,emp15@swiftops.example
+EMP0016,Employee_16,Supply Chain Executive,Supply Chain,WH002,Morning,9,60500,4.0,Active,2022,emp16@swiftops.example
+EMP0017,Employee_17,Warehouse Manager,Operations,WH003,Morning,2,96000,3.8,Active,2020,emp17@swiftops.example
+EMP0018,Employee_18,Inventory Supervisor,Inventory,WH003,General,3,53000,3.9,Active,2021,emp18@swiftops.example
+EMP0019,Employee_19,Logistics Coordinator,Logistics,WH003,Evening,4,49000,4.0,Active,2022,emp19@swiftops.example
+EMP0020,Employee_20,Data Analyst,Analytics,WH003,General,5,71000,4.1,Active,2023,emp20@swiftops.example
+EMP0021,Employee_21,Driver,Transport,WH003,Morning,6,33000,4.2,Active,2024,emp21@swiftops.example
+EMP0022,Employee_22,Forklift Operator,Warehouse,WH003,Evening,7,29000,3.8,Active,2020,emp22@swiftops.example
+EMP0023,Employee_23,Quality Inspector,Quality,WH003,General,8,43000,3.9,Active,2021,emp23@swiftops.example
+EMP0024,Employee_24,Supply Chain Executive,Supply Chain,WH003,Morning,9,61000,4.0,Active,2022,emp24@swiftops.example
+EMP0025,Employee_25,Warehouse Manager,Operations,WH004,Morning,2,96500,3.8,Active,2020,emp25@swiftops.example
+EMP0026,Employee_26,Inventory Supervisor,Inventory,WH004,General,3,53500,3.9,Active,2021,emp26@swiftops.example
+EMP0027,Employee_27,Logistics Coordinator,Logistics,WH004,Evening,4,49500,4.0,Active,2022,emp27@swiftops.example
+EMP0028,Employee_28,Data Analyst,Analytics,WH004,General,5,71500,4.1,Active,2023,emp28@swiftops.example
+EMP0029,Employee_29,Driver,Transport,WH004,Morning,6,33500,4.2,Active,2024,emp29@swiftops.example
+EMP0030,Employee_30,Forklift Operator,Warehouse,WH004,Evening,7,29500,3.8,Active,2020,emp30@swiftops.example
+EMP0031,Employee_31,Quality Inspector,Quality,WH004,General,8,43500,3.9,Active,2021,emp31@swiftops.example
+EMP0032,Employee_32,Supply Chain Executive,Supply Chain,WH004,Morning,9,61500,4.0,Active,2022,emp32@swiftops.example
+EMP0033,Employee_33,Warehouse Manager,Operations,WH005,Morning,2,97000,3.8,Active,2020,emp33@swiftops.example
+EMP0034,Employee_34,Inventory Supervisor,Inventory,WH005,General,3,54000,3.9,Active,2021,emp34@swiftops.example
+EMP0035,Employee_35,Logistics Coordinator,Logistics,WH005,Evening,4,50000,4.0,Active,2022,emp35@swiftops.example
+EMP0036,Employee_36,Data Analyst,Analytics,WH005,General,5,72000,4.1,Active,2023,emp36@swiftops.example
+EMP0037,Employee_37,Driver,Transport,WH005,Morning,6,34000,4.2,Active,2024,emp37@swiftops.example
+EMP0038,Employee_38,Forklift Operator,Warehouse,WH005,Evening,7,30000,3.8,Active,2020,emp38@swiftops.example
+EMP0039,Employee_39,Quality Inspector,Quality,WH005,General,8,44000,3.9,Active,2021,emp39@swiftops.example
+EMP0040,Employee_40,Supply Chain Executive,Supply Chain,WH005,Morning,9,62000,4.0,Active,2022,emp40@swiftops.example
+EMP0041,Employee_41,Warehouse Manager,Operations,WH006,Morning,2,97500,3.8,Active,2020,emp41@swiftops.example
+EMP0042,Employee_42,Inventory Supervisor,Inventory,WH006,General,3,54500,3.9,Active,2021,emp42@swiftops.example
+EMP0043,Employee_43,Logistics Coordinator,Logistics,WH006,Evening,4,50500,4.0,Active,2022,emp43@swiftops.example
+EMP0044,Employee_44,Data Analyst,Analytics,WH006,General,5,72500,4.1,Active,2023,emp44@swiftops.example
+EMP0045,Employee_45,Driver,Transport,WH006,Morning,6,34500,4.2,Active,2024,emp45@swiftops.example
+EMP0046,Employee_46,Forklift Operator,Warehouse,WH006,Evening,7,30500,3.8,Active,2020,emp46@swiftops.example
+EMP0047,Employee_47,Quality Inspector,Quality,WH006,General,8,44500,3.9,Active,2021,emp47@swiftops.example
+EMP0048,Employee_48,Supply Chain Executive,Supply Chain,WH006,Morning,9,62500,4.0,Active,2022,emp48@swiftops.example
+EMP0049,Employee_49,Warehouse Manager,Operations,WH007,Morning,2,98000,3.8,Active,2020,emp49@swiftops.example
+EMP0050,Employee_50,Inventory Supervisor,Inventory,WH007,General,3,55000,3.9,Active,2021,emp50@swiftops.example
+EMP0051,Employee_51,Logistics Coordinator,Logistics,WH007,Evening,4,51000,4.0,Active,2022,emp51@swiftops.example
+EMP0052,Employee_52,Data Analyst,Analytics,WH007,General,5,73000,4.1,Active,2023,emp52@swiftops.example
+EMP0053,Employee_53,Driver,Transport,WH007,Morning,6,35000,4.2,Active,2024,emp53@swiftops.example
+EMP0054,Employee_54,Forklift Operator,Warehouse,WH007,Evening,7,31000,3.8,Active,2020,emp54@swiftops.example
+EMP0055,Employee_55,Quality Inspector,Quality,WH007,General,8,45000,3.9,Active,2021,emp55@swiftops.example
+EMP0056,Employee_56,Supply Chain Executive,Supply Chain,WH007,Morning,9,63000,4.0,Active,2022,emp56@swiftops.example
+EMP0057,Employee_57,Warehouse Manager,Operations,WH008,Morning,2,98500,3.8,Active,2020,emp57@swiftops.example
+EMP0058,Employee_58,Inventory Supervisor,Inventory,WH008,General,3,55500,3.9,Active,2021,emp58@swiftops.example
+EMP0059,Employee_59,Logistics Coordinator,Logistics,WH008,Evening,4,51500,4.0,Active,2022,emp59@swiftops.example
+EMP0060,Employee_60,Data Analyst,Analytics,WH008,General,5,73500,4.1,Active,2023,emp60@swiftops.example
+EMP0061,Employee_61,Driver,Transport,WH008,Morning,6,35500,4.2,Active,2024,emp61@swiftops.example
+EMP0062,Employee_62,Forklift Operator,Warehouse,WH008,Evening,7,31500,3.8,Active,2020,emp62@swiftops.example
+EMP0063,Employee_63,Quality Inspector,Quality,WH008,General,8,45500,3.9,Active,2021,emp63@swiftops.example
+EMP0064,Employee_64,Supply Chain Executive,Supply Chain,WH008,Morning,9,63500,4.0,Active,2022,emp64@swiftops.example
+EMP0065,Employee_65,Warehouse Manager,Operations,WH009,Morning,2,99000,3.8,Active,2020,emp65@swiftops.example
+EMP0066,Employee_66,Inventory Supervisor,Inventory,WH009,General,3,56000,3.9,Active,2021,emp66@swiftops.example
+EMP0067,Employee_67,Logistics Coordinator,Logistics,WH009,Evening,4,52000,4.0,Active,2022,emp67@swiftops.example
+EMP0068,Employee_68,Data Analyst,Analytics,WH009,General,5,74000,4.1,Active,2023,emp68@swiftops.example
+EMP0069,Employee_69,Driver,Transport,WH009,Morning,6,36000,4.2,Active,2024,emp69@swiftops.example
+EMP0070,Employee_70,Forklift Operator,Warehouse,WH009,Evening,7,32000,3.8,Active,2020,emp70@swiftops.example
+EMP0071,Employee_71,Quality Inspector,Quality,WH009,General,8,46000,3.9,Active,2021,emp71@swiftops.example
+EMP0072,Employee_72,Supply Chain Executive,Supply Chain,WH009,Morning,9,64000,4.0,Active,2022,emp72@swiftops.example
+EMP0073,Employee_73,Warehouse Manager,Operations,WH010,Morning,2,99500,3.8,Active,2020,emp73@swiftops.example
+EMP0074,Employee_74,Inventory Supervisor,Inventory,WH010,General,3,56500,3.9,Active,2021,emp74@swiftops.example
+EMP0075,Employee_75,Logistics Coordinator,Logistics,WH010,Evening,4,52500,4.0,Active,2022,emp75@swiftops.example
+EMP0076,Employee_76,Data Analyst,Analytics,WH010,General,5,74500,4.1,Active,2023,emp76@swiftops.example
+EMP0077,Employee_77,Driver,Transport,WH010,Morning,6,36500,4.2,Active,2024,emp77@swiftops.example
+EMP0078,Employee_78,Forklift Operator,Warehouse,WH010,Evening,7,32500,3.8,Active,2020,emp78@swiftops.example
+EMP0079,Employee_79,Quality Inspector,Quality,WH010,General,8,46500,3.9,Active,2021,emp79@swiftops.example
+EMP0080,Employee_80,Supply Chain Executive,Supply Chain,WH010,Morning,9,64500,4.0,Active,2022,emp80@swiftops.example
