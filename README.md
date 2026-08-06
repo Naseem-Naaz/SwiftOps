@@ -278,9 +278,6 @@ The project follows a **Star Schema**.
 
 # 📷 Dashboard Preview
 
-> Add screenshots of your Power BI dashboards here.
-
-Example:
 
 ```
 Images/
@@ -296,7 +293,7 @@ Images/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SwiftOps.git
+git clone https://github.com/naseem-naaz/SwiftOps.git
 ```
 
 Navigate to the project
@@ -355,7 +352,7 @@ This project demonstrates practical experience in:
 
 **Data Science | Machine Learning | Business Intelligence**
 
-GitHub: https://github.com/naseemnaaz
+GitHub: https://github.com/naseem-naaz
 
 LinkedIn: https://linkedin.com/in/naseemnaazchachi
 
