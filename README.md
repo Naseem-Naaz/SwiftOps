@@ -355,9 +355,9 @@ This project demonstrates practical experience in:
 
 **Data Science | Machine Learning | Business Intelligence**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/naseemnaaz
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/naseemnaazchachi
 
 ---
 
